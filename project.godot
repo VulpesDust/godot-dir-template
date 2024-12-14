@@ -18,6 +18,8 @@ config/icon="res://assets/godot/icon.svg"
 
 folder_colors={
 "res://addons/": "orange",
+"res://app/": "green",
+"res://app/test/": "yellow",
 "res://assets/external/": "orange",
 "res://assets/godot/": "orange",
 "res://assets/internal/": "green"
